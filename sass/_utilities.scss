@@ -1,0 +1,49 @@
+.bg-purple {
+  background: $color-bg-purple;
+}
+
+.bg-grey {
+  background: $color-bg-grey-light;
+}
+
+.bg-grey-dark {
+  background: $color-bg-grey-dark;
+}
+
+.bg-white {
+  background: $color-bg-white;
+}
+
+.text-white {
+  color: $color-text-primary;
+}
+
+.text-grey {
+  color: $color-text-secondary;
+}
+
+.text-neutral {
+  color: $color-text-tertiary;
+}
+
+.text-neutral-2 {
+    color: hsla(210, 46%, 95%, 1);
+}
+
+.margin-top-sm {
+    margin-top: 1.6rem;
+}
+
+.margin-top-md {
+    margin-top: 1.8rem;
+}
+
+.margin-top-lg {
+    margin-top: 2.4rem;
+}
+
+.border-primary {
+  border: 2px solid hsla(264, 82%, 70%, 1);
+}
+
+
